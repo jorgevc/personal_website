@@ -5,13 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/portfolio
-  label: Portfolio
-  create: none
+  path: content/Investigación
+  label: Investigación
+  create: documents
   match: "*"
 - type: directory
-  path: content/blog
-  label: Post
+  path: content/estudiantes
+  label: Estudiantes
   create: documents
   match: "*"
   templates:
