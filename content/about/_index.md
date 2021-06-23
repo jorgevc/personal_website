@@ -1,13 +1,9 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T12:14:34.000+06:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My work focuses on biomathematics. In particular I study the dynamics of infectious diseasesas Dengue, Zika and Chikungunya. I mainly look to propose prevention and control strategiesin situations where spatial factors and mobility play an important role. I am also interestedin ecology and systems biology. I study the factors that allow the coexistence of species andstructured populations and the dynamics of gene regulatory networks. In order to achieve this, I usemathematical models in combination with computational simulations. I look to make my researchtruly multidisciplinary by collaborating with biologist, entomologist, physicist and mathematicians.
